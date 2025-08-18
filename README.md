@@ -6,3 +6,4 @@ I use **C++** as my primary programming language.
 ### Arrays
 1. Search in Rotated Sorted Array – [Code](search_rotated.cpp)
 2. Find Peak element - [Code](find_peak_element.cpp)
+3. Find duplicate element - [Code](find_duplicate.cpp)
