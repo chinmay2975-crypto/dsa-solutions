@@ -17,3 +17,6 @@ I use **C++** as my primary programming language.
 ### Stack/Queue
 1. stack using queue - [Code](stack_using_queue.cpp)
    
+### Trees 
+1. Maximum depth of a tree - [Code](max_depth.cpp)
+
