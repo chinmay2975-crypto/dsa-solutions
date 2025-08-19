@@ -11,4 +11,5 @@ I use **C++** as my primary programming language.
 
 ### Linked List
 1. Remove Linked List Elements – [Code](remove_linked_list_elements.cpp)  
-2. Reverse Linked List – [Code](reverse_linked_list.cpp)  
+2. Reverse Linked List – [Code](reverse_linked_list.cpp)
+3. Merge two sorted lists- [Code](merge_two_lists.cpp)
