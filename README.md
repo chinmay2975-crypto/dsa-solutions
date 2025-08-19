@@ -15,4 +15,5 @@ I use **C++** as my primary programming language.
 3. Merge two sorted lists- [Code](merge_two_lists.cpp)
    
 ### Stack/Queue
-1. 
+1. stack using queue - [Code](stack_using_queue.cpp)
+   
