@@ -22,3 +22,6 @@ I use **C++** as my primary programming language.
 
 ### Math
 1. Reverse integer - [Code](max_tree_depth.cpp)
+
+### Dynamic Programming
+1. Maximum subarray - [Code](max_subarray.cpp)
