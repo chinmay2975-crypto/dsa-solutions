@@ -11,3 +11,4 @@ I use **C++** as my primary programming language.
 
 ### Linked List
 1.Remove linked list elements - [Code](remove_linked_list_elements.cpp)
+2.Reverse linked list - [Code](reverse_linked_list.cpp)
