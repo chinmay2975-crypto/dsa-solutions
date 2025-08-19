@@ -20,3 +20,5 @@ I use **C++** as my primary programming language.
 ### Trees 
 1. Maximum depth of a tree - [Code](max_tree_depth.cpp)
 
+### Math
+1. 
