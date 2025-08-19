@@ -25,4 +25,4 @@ I use **C++** as my primary programming language.
 
 ### Dynamic Programming
 1. Maximum subarray - [Code](max_subarray.cpp)
-2. Trapped rain water - [Code](trapped_water.cpp)
+2. Trapped rain water - [Code](trapping_rain_water.cpp)
